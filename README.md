@@ -6,5 +6,11 @@
  - RGB LED
  - 2 LEDs
 
-### images
+### UI Mockup:
 ![Image](./images/ui.png)
+
+### Usage Instructions:
+
+### Architecture Diagram:
+
+### Screenshots:

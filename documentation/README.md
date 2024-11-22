@@ -7,10 +7,14 @@
  - 2 LEDs
 
 ### UI Mockup:
-![Image](./images/ui.png)
+![Image](./ui.png)
 
 ### Usage Instructions:
 
 ### Architecture Diagram:
+![Image](./diagram.png)
+
+### Wiring
+![Image](./rpi_wiring.png)
 
 ### Screenshots:

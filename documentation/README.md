@@ -18,3 +18,8 @@
 ![Image](./rpi_wiring.png)
 
 ### Screenshots:
+## AWS DynamoDB
+![Image](./aws.png)
+## Terminal Output:
+![Image](./terminal.png)
+
